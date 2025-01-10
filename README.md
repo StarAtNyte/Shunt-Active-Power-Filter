@@ -46,6 +46,7 @@ This project implements a **Shunt Active Power Filter (SAPF)** using Neural Netw
 
 ### Without SAPF
 - **Description**: System operates without any active power filter.
+![image](https://github.com/user-attachments/assets/2e838338-ddd5-4140-b60f-15b14120505d)
 - **Observations**: High harmonic distortion in the system.
 
 ### With SAPF (PI Controlled)
