@@ -1,4 +1,4 @@
-![PI_Controlled_SAPF_pq_theory_page-0005](https://github.com/user-attachments/assets/c727a43f-cb93-4eff-91dc-007dbfe23400)![PI_Controlled_SAPF_pq_theory_page-0001](https://github.com/user-attachments/assets/d35c3e27-caed-490c-9452-61cf78d02ea2)# Neural Network-Based Shunt Active Power Filter (SAPF)
+# Neural Network-Based Shunt Active Power Filter (SAPF)
 
 ## Overview
 This project implements a **Shunt Active Power Filter (SAPF)** using Neural Networks as a replacement for the conventional PI controller. The system is designed to mitigate harmonics in three-phase power systems by leveraging instantaneous power theory (p-q theory) combined with intelligent control.
@@ -34,7 +34,7 @@ This project implements a **Shunt Active Power Filter (SAPF)** using Neural Netw
 - **Deep Learning Toolbox**
 - **Simscape Electrical**
 
-![Uploading PI_Controlled_SAPF_pq_theory_page-0001.jpg…]()
+[PI_Controlled_SAPF_pq_theory_page-0001](https://github.com/user-attachments/assets/d35c3e27-caed-490c-9452-61cf78d02ea2)
 ![PI_Controlled_SAPF_pq_theory_page-0002](https://github.com/user-attachments/assets/f8879c41-de1f-4024-83cf-4572e7dfb0f5)
 ![PI_Controlled_SAPF_pq_theory_page-0003](https://github.com/user-attachments/assets/2da66e53-f586-4428-8071-ac46b0d41fda)
 ![PI_Controlled_SAPF_pq_theory_page-0004](https://github.com/user-attachments/assets/3ced4b80-35aa-4a1b-8de3-d329fd944fb4)
