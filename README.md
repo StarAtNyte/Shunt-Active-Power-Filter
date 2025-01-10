@@ -34,7 +34,7 @@ This project implements a **Shunt Active Power Filter (SAPF)** using Neural Netw
 - **Deep Learning Toolbox**
 - **Simscape Electrical**
 
-[PI_Controlled_SAPF_pq_theory_page-0001](https://github.com/user-attachments/assets/d35c3e27-caed-490c-9452-61cf78d02ea2)
+![PI_Controlled_SAPF_pq_theory_page-0001](https://github.com/user-attachments/assets/e676e7bf-ba91-4ff2-9199-0ea8db2f9008)
 ![PI_Controlled_SAPF_pq_theory_page-0002](https://github.com/user-attachments/assets/f8879c41-de1f-4024-83cf-4572e7dfb0f5)
 ![PI_Controlled_SAPF_pq_theory_page-0003](https://github.com/user-attachments/assets/2da66e53-f586-4428-8071-ac46b0d41fda)
 ![PI_Controlled_SAPF_pq_theory_page-0004](https://github.com/user-attachments/assets/3ced4b80-35aa-4a1b-8de3-d329fd944fb4)
