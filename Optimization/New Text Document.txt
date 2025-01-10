@@ -1,0 +1,33 @@
+>> pso_optimization
+Iteration 1: Kp = 0.8057, Ki = 0.2956, Fitness = 6561054.8360
+Iteration 2: Kp = 0.8057, Ki = 0.2956, Fitness = 6561054.8360
+Iteration 3: Kp = 0.8224, Ki = 0.2780, Fitness = 6458517.8014
+Iteration 4: Kp = 0.8701, Ki = 0.3709, Fitness = 6285876.9096
+Iteration 5: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 6: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 7: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 8: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 9: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 10: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 11: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 12: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 13: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 14: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 15: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 16: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 17: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 18: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 19: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 20: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 21: Kp = 0.8713, Ki = 0.2711, Fitness = 6195318.2049
+Iteration 22: Kp = 0.8671, Ki = 0.2710, Fitness = 6193624.5413
+Iteration 23: Kp = 0.8701, Ki = 0.2739, Fitness = 6193193.0913
+Iteration 24: Kp = 0.8701, Ki = 0.2739, Fitness = 6193193.0913
+Iteration 25: Kp = 0.8701, Ki = 0.2739, Fitness = 6193193.0913
+Iteration 26: Kp = 0.8701, Ki = 0.2739, Fitness = 6193193.0913
+Iteration 27: Kp = 0.8701, Ki = 0.2739, Fitness = 6193193.0913
+Iteration 28: Kp = 0.8701, Ki = 0.2739, Fitness = 6193193.0913
+Iteration 29: Kp = 0.8701, Ki = 0.2739, Fitness = 6193193.0913
+Iteration 30: Kp = 0.8712, Ki = 0.2813, Fitness = 6193113.3021
+Optimized Kp: 0.8712
+Optimized Ki: 0.2813
