@@ -34,45 +34,32 @@ This project implements a **Shunt Active Power Filter (SAPF)** using Neural Netw
 - **Deep Learning Toolbox**
 - **Simscape Electrical**
 
-## Setup Instructions
-1. Set simulation parameters in the model.
-2. Configure load parameters for testing.
-3. Run the simulation.
-4. Analyze results using the provided scripts.
-
-## Key Parameters
-- **Switching Frequency:** 10 kHz
-- **DC Link Voltage:** 120 V
-- **Filter Inductance:** 2 mH
-- **System Frequency:** 60 Hz
-- **Sampling Time:** 50 μs
-
 ## Performance Comparison
 
 ### Without SAPF
 - **Description**: System operates without any active power filter.
-- **THD**: ~25%  
+![start0 2cycle100](https://github.com/user-attachments/assets/30656738-c0e6-42a7-ad37-0aa701c3b6fd)
 - **Observations**: High harmonic distortion in the system.
 
 ### With SAPF (PI Controlled)
 - **Description**: SAPF implemented with a conventional PI controller.
-- **THD**: ~8%  
+![start0 2cycle100](https://github.com/user-attachments/assets/8451e129-4a92-4eff-86f8-00f5045c7e43)
 - **Observations**: Significant reduction in harmonics but limited adaptability to dynamic load changes.
 
 ### Optimization of PI Controller
 - **Description**: Tuned PI controller to optimize performance.
-- **THD**: ~6%  
+![0 3100cycles](https://github.com/user-attachments/assets/05d40d03-0514-498a-8cac-a4194d376900)
 - **Observations**: Improved performance with reduced distortion, but still limited by PI controller's inherent drawbacks.
 
 ### Replacement of PI Controller with ANN
 - **Description**: SAPF implemented with an Artificial Neural Network (ANN) replacing the PI controller.
-- **THD**: ~3%  
+![0 3100cycle](https://github.com/user-attachments/assets/6fa53f48-21bc-4e82-92e4-b485cefb7220)
+
 - **Observations**: Best performance observed with ANN, offering superior adaptability to dynamic loads and minimal distortion.
 
-### With SAPF (ANN-Based)
-- **Description**: Fully optimized system with ANN-based SAPF.
-- **THD**: ~3%  
-- **Observations**: Highly efficient harmonic compensation and robust response to load variations.
+### PI Controller in cascade with ANN
+![0 3_100cycles](https://github.com/user-attachments/assets/f4605d37-a0a6-40a9-91eb-28c33a3ded0a)
+
 
 ## Results Analysis
 The system performance can be evaluated through:
